@@ -7668,8 +7668,8 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "gf-exe",
-		"player3": "gf-exe",
+		"gfVersion": "gf",
+		"player3": "gf",
 		"isRing": false,
 		"song": "black-sun",
 		"validScore": true,
