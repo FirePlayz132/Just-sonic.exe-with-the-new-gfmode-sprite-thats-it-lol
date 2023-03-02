@@ -2261,8 +2261,8 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "gf-exe",
-		"player3": "gf-exe",
+		"gfVersion": "gf",
+		"player3": "gf",
 		"song": "faker",
 		"needsVoices": true,
 		"sections": 0,
