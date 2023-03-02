@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="BoyFriend_Remake_Dead.png">
+<TextureAtlas imagePath="BOYFRIEND_DEAD.png">
 	<!-- Created with Adobe Animate version 21.0.6.41649 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="BF Dead Confirm0000" x="6180" y="590" width="412" height="567" frameX="0" frameY="-53" frameWidth="412" frameHeight="620"/>
